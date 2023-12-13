@@ -26,4 +26,10 @@ The 'Rank' column is cleaned by removing unwanted characters and converting it t
 
 **Exploratory Data Analysis (EDA):**
 
+![image](https://github.com/no37no37/youtube_channels_analysis/assets/132648428/c46a3551-32d3-49ec-a0e1-79d00561b902)
+
+![image](https://github.com/no37no37/youtube_channels_analysis/assets/132648428/4582b408-95b6-4575-9f3a-ab65ca82d038)
+
+![image](https://github.com/no37no37/youtube_channels_analysis/assets/132648428/4a53cabe-cdb6-41a2-a282-b1517e1a078e)
+
 EDA involves analyzing key metrics such as average views, top channels by video uploads, and creating a correlation matrix to understand relationships between numeric features. Visualizations using seaborn and matplotlib aid in presenting insights about grades, video uploads, average views, subscribers, and video views.
